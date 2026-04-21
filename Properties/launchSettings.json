@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Demo1-LINQ": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
